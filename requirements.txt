@@ -1,0 +1,5 @@
+fake_useragent
+colorama
+requests
+amass
+subfinder
