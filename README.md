@@ -8,6 +8,12 @@ cd subrecon
 
 pip3 install -r requirements.txt
 
+```
+
+## USAGE
+
+```bash
+
 python3 subrecon.py
 
 ```
