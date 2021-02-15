@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-<h3> This tool scans for subdomains and probes for live domains. It will also retrieve the ip for every domain.</h3>
+<h3>This tool will scan for subdomains, and it will also probe for live domains while also retrieving their ip.</h3>
 
 ## INSTALLATION
 
